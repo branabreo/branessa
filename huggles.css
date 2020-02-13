@@ -1,0 +1,36 @@
+body{
+	background-image: url('huggles.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: top;
+	position: absolute;
+    left: 0;
+    top: 20%;
+    width: 100%;
+    text-align: center;
+    font-size: 400%;
+    font-family: Arial, 'Lucida Sans Unicode';
+
+
+
+	}
+
+a{
+	text-decoration: none;
+}
+
+body img{
+	opacity: 0.5;
+}
+
+.hugglesbtn{
+	position: absolute;
+    left: 0;
+    top: 5%;
+    width: 100%;
+    text-align: center;
+    font-size: 400%;
+    font-family: Arial, 'Lucida Sans Unicode';
+
+}
+
